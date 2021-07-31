@@ -1,2 +1,2 @@
 # Leet-Code-SQL-problems
-Leetcode problems
+In this repo I will post all the solved leetcode SQL questions.
